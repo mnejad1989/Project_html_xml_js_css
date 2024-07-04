@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Projets>
+    <Projet>
+        <title>SQL</title>
+        <description>Dans ce projet, j'ai exploré la base de données Covid</description>
+        <link>https://github.com/mnejad1989/DataAnalysis/blob/main/SQL_Covid_Portfolio_Project.sql</link>
+    </Projet>
+
+    <Projet>
+        <title>Power BI</title>
+        <description>Dans ce projet, j'ai analysé et trouvé les 5 catégories de contenu les plus populaires de Social Buzz avec Power BI</description>
+        <link>https://github.com/mnejad1989/DataAnalysis/blob/main/Power_BI_Analysis_for_Social_Buzz.pptx</link>
+    </Projet>
+
+</Projets>
